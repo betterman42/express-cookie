@@ -2,5 +2,5 @@
   "name": "express-cookie",
   "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2025-09-18",
-  "main": "index.mjs"
+  "main": "index.js"
 }
